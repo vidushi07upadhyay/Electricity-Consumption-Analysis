@@ -247,7 +247,7 @@ Dataset inspiration from publicly available electricity consumption datasets.
 March 2026
 
 Project Repository  
-https://github.com/Sham-S08/Electricity-Consumption-Tableau-Analysis
+https://github.com/vidushi07upadhyay/Electricity-Consumption-Analysis
 
 ---
 
